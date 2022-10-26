@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 inne
+=======
+cokolwiek
+>>>>>>> a3caf4d (modyfikacja pliku)
