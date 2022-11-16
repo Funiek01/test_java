@@ -2,4 +2,7 @@
 inne
 =======
 cokolwiek
+
 >>>>>>> a3caf4d (modyfikacja pliku)
+
+>>>>>>>> 123sd1234 (kolejna modyfikacja)
